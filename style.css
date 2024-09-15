@@ -1,0 +1,12 @@
+div {
+
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+    color: black;
+    border: 1px solid black;
+}
+
+div:hover {
+    background-color: #b0f;
+}
